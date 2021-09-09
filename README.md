@@ -6,6 +6,6 @@ How to add your name
 `[Name](profile-link)`
 
 ## A
-
+[Aditya Prakash Padhi](https://github.com/watashi-wa-aditya)
 
 ## B
