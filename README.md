@@ -9,3 +9,6 @@ How to add your name
 [Aditya Prakash Padhi](https://github.com/watashi-wa-aditya)
 
 ## B
+
+## N
+[Nitesh Yadav](https://github.com/Nitesh2905)
