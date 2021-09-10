@@ -2,7 +2,7 @@
 This is for Practicing Pull Request 
 Add you name according to alphabet
 
-How to add your name 
+Use this format 
 `[Name](profile-link)`
 
 ## A
