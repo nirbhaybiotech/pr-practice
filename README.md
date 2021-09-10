@@ -10,5 +10,52 @@ How to add your name
 
 ## B
 
+## C
+
+## D
+
+## E
+
+## F
+
+## G
+
+## H
+
+## I
+
+## J
+
+## K
+
+## L
+
+## M
+
 ## N
 [Nitesh Yadav](https://github.com/Nitesh2905)
+
+## O
+
+## P
+
+## Q
+
+## R
+
+## S
+[Shubham Kukreti](https://github.com/KukretiShubham)
+
+## T
+
+## U
+
+## V
+
+## W
+
+## X
+
+## Y
+
+## Z
