@@ -6,7 +6,8 @@ Use this format
 `[Name](profile-link)`
 
 ## A
-[Aditya Prakash Padhi](https://github.com/watashi-wa-aditya)
+- [Aditya Prakash Padhi](https://github.com/watashi-wa-aditya)
+- 
 
 ## B
 
