@@ -46,6 +46,7 @@ Use this format
 
 ## S
 - [Shubham Kukreti](https://github.com/KukretiShubham)
+- [Shubham Kukreti](https://github.com/KukretiShubham)
 
 ## T
 
