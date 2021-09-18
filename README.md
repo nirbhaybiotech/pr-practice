@@ -35,8 +35,8 @@ Use this format
 ## M
 - [munnao912](https://github.com/munna0912)
 ## N
-[Nitesh Yadav](https://github.com/Nitesh2905)
-[Nirbhay Kumar](https://github.com/nirbhaybiotech)
+- [Nitesh Yadav](https://github.com/Nitesh2905)
+- [Nirbhay Kumar](https://github.com/nirbhaybiotech)
 
 ## O
 
