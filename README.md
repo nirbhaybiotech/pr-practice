@@ -36,11 +36,11 @@ Use this format
 - [munnao912](https://github.com/munna0912)
 ## N
 [Nitesh Yadav](https://github.com/Nitesh2905)
+[Nirbhay Kumar](https://github.com/nirbhaybiotech)
 
 ## O
 
 ## P
-[Prakhar Mishra](https://github.com/prakhar3062)
 
 ## Q
 
@@ -63,4 +63,3 @@ Use this format
 ## Y
 
 ## Z
--
